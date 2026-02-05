@@ -40,7 +40,14 @@ Robotics isn't a single skill—it's a stack. An interdisciplinary field combini
 - Autonomous Systems
 - Human-Robot Interaction
 
-### [6. Learning Resources](./contents/06-learning-resources.md)
+### [6. Research & State-of-the-Art](./contents/06-research-and-sota.md)
+- Current Research Problems
+- State-of-the-Art Algorithms & Methods
+- Open Challenges & Future Directions
+- Top Research Labs & Conferences
+- Benchmark Datasets
+
+### [7. Learning Resources](./contents/07-learning-resources.md)
 
 #### Books & Courses
 - Textbooks & Online Courses
@@ -56,7 +63,7 @@ Robotics isn't a single skill—it's a stack. An interdisciplinary field combini
 - Podcasts
 - Conference Talks
 
-### [7. Open Source & Community](./contents/07-open-source-and-community.md)
+### [8. Open Source & Community](./contents/08-open-source-and-community.md)
 
 #### GitHub Projects
 - ROS Packages
