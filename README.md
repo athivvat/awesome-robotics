@@ -11,36 +11,36 @@ The core challenge: building end-to-end systems that work in the real world.
 Robotics isn't a single skill—it's a stack. An interdisciplinary field combining **math + physics + software + hardware**, all unified through control systems.
 
 ## Contents
-### 1. Foundations (Math & Physics)
+### [1. Foundations (Math & Physics)](./contents/01-foundations.md)
 - Linear Algebra & Calculus
 - Probability & Statistics
 - Classical Mechanics & Dynamics
 - Kinematics & Rigid Body Motion
 
-### 2. Control Systems
+### [2. Control Systems](./contents/02-control-systems.md)
 - Control Theory (PID, State-Space)
 - Motion Planning & Navigation
 - Sensor Fusion & Estimation
 
-### 3. Software
+### [3. Software](./contents/03-software.md)
 - Programming (Python, C++)
 - ROS (Robot Operating System)
 - AI & Machine Learning
 - Simulation Tools
 
-### 4. Hardware
+### [4. Hardware](./contents/04-hardware.md)
 - Mechanical Design & CAD
 - Electronics & Circuits
 - Sensors & Actuators
 - Embedded Systems
 
-### 5. Specializations
+### [5. Specializations](./contents/05-specializations.md)
 - Mobile Robotics
 - Manipulators & Arms
 - Autonomous Systems
 - Human-Robot Interaction
 
-### 6. Learning Resources
+### [6. Learning Resources](./contents/06-learning-resources.md)
 
 #### Books & Courses
 - Textbooks & Online Courses
@@ -56,7 +56,7 @@ Robotics isn't a single skill—it's a stack. An interdisciplinary field combini
 - Podcasts
 - Conference Talks
 
-### 7. Open Source & Community
+### [7. Open Source & Community](./contents/07-open-source-and-community.md)
 
 #### GitHub Projects
 - ROS Packages
