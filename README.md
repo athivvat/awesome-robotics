@@ -81,7 +81,7 @@ This repository curates resources, tools, software, and services for Robotics En
 **How to contribute:**
 - Found a great resource? Submit a pull request
 - Spotted an error or broken link? Open an issue
-- Want to suggest improvements? Check our [contributing.md](contributing.md) for guidelines
+- Want to suggest improvements? Check our [contributing.md](CONTRIBUTING.md) for guidelines
 
 Let's build this together and help the robotics community thrive.
 
