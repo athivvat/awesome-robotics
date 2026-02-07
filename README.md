@@ -70,6 +70,7 @@ Robotics isn't a single skill—it's a stack. An interdisciplinary field combini
 - Simulation Environments
 - Control Libraries
 - Computer Vision Tools
+- Awesome Projects
 
 #### Communities
 - Forums & Discord
