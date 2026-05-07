@@ -1,4 +1,4 @@
-# Research & State-of-the-Art
+# 8. Capstone Research & Real-World Projects
 
 ## Current Research Problems
 

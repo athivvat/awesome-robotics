@@ -1,4 +1,4 @@
-# 7. Open Source & Community
+# 10. Open Source & Community Engagement
 
 ## GitHub Projects
 
